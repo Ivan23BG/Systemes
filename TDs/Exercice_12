@@ -1,0 +1,3 @@
+These algorithms are often times used implicitly when converting ints to chars and vice versa
+ex: int a = '3' or char = '4' + 1
+they are done during compilation automatically

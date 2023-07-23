@@ -1,0 +1,14 @@
+What are the differences between an interpreter and a compiler ? Give 2 examples of each
+
+An interpreter reads and interprets code at the third level,
+a compiler translates the code into a third level code that can be read by the machine
+
+Interpreted programming languages can be :
+1- Python,
+2- Javascript
+(3- PHP)
+
+Compiled programming languages can be :
+1- C
+2- OCaml
+(3- Rust)

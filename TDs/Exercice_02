@@ -1,0 +1,6 @@
+What similarities and differences are there between a header (toto.h) and a library ?
+When are they used during compilation ? Give 2 examples of each
+
+A header file contains only function declarations
+
+A library file contains the implementation of the code in the header

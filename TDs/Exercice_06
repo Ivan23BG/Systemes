@@ -1,0 +1,10 @@
+//
+// Created by Ivan on 14/07/2023.
+//
+
+// Using @Exercice_05.c test the possibilities of gcc
+/*
+ * Pre-treated file : gcc -E
+ * Assembly file : gcc -S
+ * Object file : -c
+ */
